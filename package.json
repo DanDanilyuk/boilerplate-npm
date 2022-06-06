@@ -3,6 +3,7 @@
 	"author": "Dan Danilyuk",
 	"description": "A project to learn node API's",
 	"keywords": ["learning", "node", "api", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
