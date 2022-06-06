@@ -4,6 +4,7 @@
 	"description": "A project to learn node API's",
 	"keywords": ["learning", "node", "api", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.3",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
